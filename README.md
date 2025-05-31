@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Nana Osei Yaw
 
-<!--
-**NanaOseiYaw/NanaOseiYaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! I'm currently on a creative and technical journey — building, learning, and exploring every day.
 
-Here are some ideas to get you started:
+### 🔭 What I’m Working On
+- 🌌 **Genesis Page** – a personal web project themed around creation and design
+- 🛠️ Crafting custom experiences with **HTML**, **CSS**, and **PHP**
+- 🎥 Sharpening my **photography** and **videography** skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m Learning
+- 🖥️ **WordPress Development** – diving deep into themes and customization
+- 🎨 **Design Principles** – visual storytelling, layout, and aesthetics
+- 📷 **Visual Media** – lighting, composition, editing
+- 🔤 **Front-end Languages** – HTML, CSS, PHP
+
+### 📚 Fun Facts About Me
+- I love reading — from deep knowledge to light fiction, books keep me curious 📖
+- I enjoy blending **tech** with **creativity**
+- Always up for exploring a new **tool, technique, or idea**
+
+### 📫 Let’s Connect
+Feel free to reach out or explore more of my work!
